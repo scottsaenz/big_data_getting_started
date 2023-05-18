@@ -197,7 +197,8 @@ On the terminal type, run `conda install -c conda-forge pyarrow` and `conda inst
 
 ### Creating a Databricks Account.
 
-> **Important** The Databricks Community Edition is good for 14-days. We suggest that you to create an account the day before you use Databricks in the course.
+> **Important** The Databricks Community Edition is good for 14-days. We suggest that you to create an account the day before you use Databricks in the course. <br>
+**We will use Databricks on 5/25/2023**
 
 This guide reviews the steps for creating a Databricks Community Edition account and using Databricks.
 
