@@ -203,8 +203,7 @@ This guide reviews the steps for creating a Databricks Community Edition account
 
 #### Create an Account
 
-1. Go to the [Databricks Community Edition site](https://community.cloud.databricks.com/login.html) and click “Sign Up”.
-    ![databricks community editions login page](https://static.bc-edx.com/data/dl-1-2/m22/lms/img/databricks_CE_login_1.png)
+1. Go to the [Databricks Community Edition site](https://docs.databricks.com/getting-started/community-edition.html) and click “Try Databricks!”.
 
 2. On the next page, fill out the required information and click "Get Started For Free."
 
